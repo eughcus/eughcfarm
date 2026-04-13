@@ -1,4 +1,5 @@
 using Eughc.BaseUI;
+using Eughc.GameTime;
 using UnityEngine;
 using System.Collections.Generic;
 using TMPro;

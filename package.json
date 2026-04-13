@@ -10,6 +10,7 @@
   },
   "keywords": ["farm", "plant", "lifecycle", "fertilizer"],
   "dependencies": {
+    "com.eughc.gametime": "*",
     "com.eughc.playersystems": "0.4.25",
     "com.eughc.daynight": "*",
     "com.eughc.quality": "*",
