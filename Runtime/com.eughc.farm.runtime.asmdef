@@ -1,0 +1,22 @@
+{
+    "name": "com.eughc.farm.runtime",
+    "rootNamespace": "Eughc.Farm",
+    "references": [
+        "com.eughc.gametime.runtime",
+        "com.eughucs.playersystems.runtime",
+        "com.eughc.daynight.runtime",
+        "com.eughc.quality.runtime",
+        "com.eughc.baseui.runtime",
+        "com.eughc.inventory.runtime",
+        "Unity.TextMeshPro"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
