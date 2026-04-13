@@ -8,7 +8,8 @@
         "com.eughc.quality.runtime",
         "com.eughc.baseui.runtime",
         "com.eughc.inventory.runtime",
-        "Unity.TextMeshPro"
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
