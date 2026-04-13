@@ -116,7 +116,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIPlantStatList
   maxElementCount: 0
-  uiPickerElementPrefab: {fileID: 4579814332662442084, guid: b6c946a59ec544314af340b225ebe7c1,
+  uiPickerElementPrefab: {fileID: 4579814332662442084, guid: 237f0422026849c385b8e2f1a63abd0f,
     type: 3}
   container: {fileID: 1757832517708100444}
   showAddNewButton: 0
@@ -473,7 +473,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIPlantFertilizerIndicatorList
   fertilizersLabel: {fileID: 4843246051602619282}
-  uiSlotPrefab: {fileID: 2596686789631501777, guid: a5373d0a1290344f0849af6e73ea3bbe,
+  uiSlotPrefab: {fileID: 2596686789631501777, guid: 37ea9d38470245e9bb5d03a121eea575,
     type: 3}
 --- !u!1 &3722423444914465898
 GameObject:
@@ -855,8 +855,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 02155a39707de4c95947e3b40926ec8a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::UIActiveEffectList
-  label: {fileID: 0}
-  itemPrefab: {fileID: 2596686789631501777, guid: af35119d39d1847468fb6d700d2575eb,
+  label: {fileID: 7636813367671658760}
+  itemPrefab: {fileID: 2596686789631501777, guid: 206d2811050340e085747eb0e502823a,
     type: 3}
 --- !u!1 &6391185860490794636
 GameObject:
