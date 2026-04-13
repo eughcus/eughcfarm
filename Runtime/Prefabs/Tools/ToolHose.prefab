@@ -4938,7 +4938,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::HoseInput
   actionMapName: Hose
-  water: {fileID: -1928678101366724786, guid: 51a994102f8334f34808c2de7be50c29, type: 3}
+  water: {fileID: -6268551808264769937, guid: 996e86330e62445a89109843479de028, type: 3}
 --- !u!114 &-8852044216258895770
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -4956,7 +4956,7 @@ MonoBehaviour:
   _priority: 0
   _interactionType: 0
   isDroppable: 0
-  _hoseContext: {fileID: 11400000, guid: c80130e552a694a93961a5f86edd4cae, type: 2}
+  _hoseContext: {fileID: 11400000, guid: d09d616a3a7204ea9bb9d61dff934cce, type: 2}
   hitLayerMask:
     serializedVersion: 2
     m_Bits: 4294967295
@@ -5063,7 +5063,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: c1f77a0542f64a8187ed0294f10d00a7, type: 2}
+  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -5145,7 +5145,7 @@ LineRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 8d15f56706fe24e808e0cee04f5df116, type: 2}
+  - {fileID: 0}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

@@ -73,6 +73,8 @@ namespace Eughc.Farm {
         }
 
         public void EnableOutline() {
+            if (outlineMaterial == null) return;
+
             var meshRenderers = GetComponentsInChildren<Renderer>(includeInactive: true);
             foreach (var meshRenderer in meshRenderers) {
                 var currentMats = meshRenderer.materials.ToList();
@@ -95,6 +97,8 @@ namespace Eughc.Farm {
     #endif
 
         public void DisableOutline() {
+            if (outlineMaterial == null) return;
+            
             var meshRenderers = GetComponentsInChildren<Renderer>(includeInactive: true);
             foreach (var meshRenderer in meshRenderers) {
                 var currentMats = meshRenderer.materials.ToList();
