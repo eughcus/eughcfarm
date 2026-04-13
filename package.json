@@ -1,6 +1,6 @@
 {
   "name": "com.eughc.farm",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "displayName": "Eughc Farm",
   "description": "Plant lifecycle, water, health, fertilizer, and harvest systems for farm-based games.",
   "unity": "2021.3",
