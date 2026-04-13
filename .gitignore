@@ -1,3 +1,52 @@
 Integrations/
 Integrations.meta
+
+# Unity generated files
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+
+# Cache
+UserSettings/
+.cache/
+
+# Rider/VSCode/JetBrains
+.idea/
+.vscode/
+*.sln
+*.csproj
+*.user
+*.unityproj
+
+# Mac crap
 .DS_Store
+
+# Unity Asset Store tools
+Assets/AssetStoreTools*
+
+# Ignore local builds
+*.apk
+*.aab
+*.xcodeproj
+*.xcworkspace
+*.ipa
+*.exe
+
+# Auto-generated or user-specific
+*.pidb
+*.booproj
+*.svd
+
+# Crash reports
+sysinfo.txt
+
+# Unity meta files that are missing references (safe to keep meta files, this is just backup)
+*.bak
+Assets/zStoreAssets
+Assets/zExternalAssets
+Assets/zStore Assets
+Assets/zExternal Assets
