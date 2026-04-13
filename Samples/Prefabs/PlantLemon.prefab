@@ -1413,10 +1413,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2868f2b6c5e3b4d5a82b380ae7904fb4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlantBehaviour
-  defaultDefinition: {fileID: 11400000, guid: 5e4e5c456558a44b188d3a09037e312d, type: 2}
+  defaultDefinition: {fileID: 11400000, guid: 9558b8b93c364c99834ddffca4ffc5e3, type: 2}
   initialStage: 3
   icon: {fileID: 0}
-  fruitPrefab: {fileID: 6178136802752427944, guid: c09b8366c0f51436499bdfa73ca196e9,
+  fruitPrefab: {fileID: 6178136802752427944, guid: 1b40a15b512d4044a6ccdba6a54ac0ad,
     type: 3}
   plantName: Lemon tree
   plantDescription: Basic lemon tree
@@ -1455,7 +1455,7 @@ MonoBehaviour:
   - {fileID: 8048339765213770351}
   - {fileID: 1397042321366001724}
   deadVisual: {fileID: 7497570274188249978}
-  outlineMaterial: {fileID: 2100000, guid: 2aceba5a825aa4693a422f5e77f9ce8e, type: 2}
+  outlineMaterial: {fileID: 2100000, guid: d08f428735d1455fa7db2144c3cceae6, type: 2}
 --- !u!114 &2216315004329026372
 MonoBehaviour:
   m_ObjectHideFlags: 0
